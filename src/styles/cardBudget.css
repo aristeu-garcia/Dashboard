@@ -1,0 +1,70 @@
+div.card-template.budget {
+  width: 250px !important;
+  min-width: 250px !important;
+}
+
+div.content-budget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 17px;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+div.content-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 15px;
+}
+
+div.content-icon.receipts {
+  background-image: linear-gradient(310deg, #7928CA 0%, #adadff 100%);
+}
+
+div.content-icon.spendings {
+  background-image: linear-gradient(310deg, #7928CA 0%, #edaf67 100%);
+}
+
+div.content-icon.investiments {
+  background-image: linear-gradient(310deg, #7928CA 0%, #93bf85 100%);
+}
+
+div.content-icon.debts {
+  background-image: linear-gradient(310deg, #7928CA 0%, #ff0000c4 100%);
+}
+
+span.material-icons.budget {
+  color: #fff;
+  font-size: 30px;
+}
+
+
+h6.title-budget {
+
+  font-size: 1.2em;
+  color: #344767;
+  font-weight: 600;
+}
+
+span.status-budget {
+  font-size: .9em;
+  color: #67748e !important;
+
+}
+
+hr.budget {
+  width: 80%;
+  border: 0;
+  height: 0.5px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+
+}
+
+h5.value-budget {
+  color: #344767;
+  font-size: 18px;
+}
