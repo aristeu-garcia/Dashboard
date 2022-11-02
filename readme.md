@@ -23,5 +23,6 @@ This is a simple page static of dashboard responsive in HTML and CSS.
 ## Author Info
 
 - Linkedin - [Aristeu Garcia](https://www.linkedin.com/in/aristeu-garcia-7007a0202)
+- Linkedin - [Rodrigo Eduardo da Silva](https://www.linkedin.com/in/redusilva/)
 
 [Back To The Top](#read-me-template)
